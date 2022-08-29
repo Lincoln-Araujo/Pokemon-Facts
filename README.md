@@ -33,7 +33,7 @@ I decided use Pokémon as topic because I'm a big fan of that game franchise.
 
 - Responsive page
 
-## What're next steps
+## What are the next steps
 
 I have plans to make a real pokedex with at least the first 100 pokemon, and also put some more animation to this tool.
 
