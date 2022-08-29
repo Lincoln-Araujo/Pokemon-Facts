@@ -5,7 +5,7 @@
   <img src="./presentation.png" />
 </div>
 
-### This is a litte project that I've used React.js to print random facts about some objects when the user click on each of them.
+This is a litte project that I've used React.js to print random facts about some objects when the user click on each of them.
 
 I decided use Pokémon as topic because I'm a big fan of that game franchise.
 
